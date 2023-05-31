@@ -29,11 +29,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+- Intake
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/YAYAjHN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6YIcODE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Gather all the necessary information: When a customer creates a ticket, be sure to gather all the necessary information so that you can accurately assess the issue and find a solution. This information may include the customer's name, contact information, the product or service they are using, the issue they are experiencing, and any steps they have already taken to try to resolve the issue.
+  
+Prioritize the ticket: Once you have gathered all the necessary information, prioritize the ticket based on the severity of the issue and the impact it is having on the customer. This will help you to ensure that the most important tickets are addressed first.
+  
+Acknowledge the customer: Once you have prioritized the ticket, acknowledge the customer and let them know that you are working on it. This will help to keep the customer informed and satisfied with the process.
 </p>
 <br />
 
