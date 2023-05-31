@@ -44,10 +44,12 @@ Acknowledge the customer: Once you have prioritized the ticket, acknowledge the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Nnk6LfI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assign the ticket to the appropriate agent: Once you have acknowledged the customer, assign the ticket to the appropriate agent. This will ensure that the ticket is handled by someone who is knowledgeable about the product or service and who can effectively resolve the issue.
+Communicate regularly with the customer: Keep the customer updated on the status of their ticket throughout the lifecycle. This will help to build trust and ensure that the customer feels like they are being heard.
+Be proactive: If a ticket is not resolved within a reasonable timeframe, be proactive and reach out to the customer to see if they need any assistance.
 </p>
 <br />
 
